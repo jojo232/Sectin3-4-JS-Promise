@@ -40,7 +40,7 @@ Created with CodeSandbox
 
 
 # ④主にES2015(ES6以降)の記法を使用
-### ECMAScriotとは
+・### ECMAScriotとは
 ・　えくますくりぷと<br>
 ・　JavaScriptの標準規格(こういうルールで書くぜ！)<br>
 ・　欧州電子計算機工業会<br>
@@ -58,9 +58,11 @@ Created with CodeSandbox
 ・　スレッド構文<br>
 ・　Promise<br>
 
-# ⑤Webpack等のモジュールバンドラーを使用　（モジュールバンドラーとは）
-### 複数のJS(css/image)ファイルを1つにまとめるためのもの
-### トランスパイラとは、新しいJavaScriptの記法を古い記法に変換してくれる
+# ⑤Webpack等のモジュールバンドラーを使用
+### モジュールバンドラーとは、
+・　複数のJS(css/image)ファイルを1つにまとめるためのもの
+### トランスパイラとは、
+・　新しいJavaScriptの記法を古い記法に変換してくれる
 
 
 
