@@ -31,15 +31,12 @@ Created with CodeSandbox
 ・　何がどこから読み込まれたものかわからない<br>
 
 ### 試行錯誤があったモダンJavaScript、npm/yarn等のパッケージマネージャーを使用
-・　内部ではNode.jsが動いている<br>
+・　内部ではNode.js(サーバサイドに実行されるJavaScript)が動いている<br>
 ・　依存関係を勝手に解決してくれる<br>
 ・　import先に明示的にわかる<br>
 ・　世界中で公開されているパッケージをコマンド1つで利用可能<br>
 ・　チーム内での共有も簡単に<br>
-
-
-
-
+<img width="100" alt="スクリーンショット 2022-08-26 17 33 48" src="https://user-images.githubusercontent.com/65487059/225487898-51973cce-3fb1-4219-a224-3e96c141645d.jpeg">
 
 
 
