@@ -39,6 +39,16 @@ Created with CodeSandbox
 <img width="100" alt="スクリーンショット 2022-08-26 17 33 48" src="https://user-images.githubusercontent.com/65487059/225487898-51973cce-3fb1-4219-a224-3e96c141645d.jpeg">
 
 
+# ④主にES2015(ES6以降)の記法を使用
+### ECMAScriotとは
+・　えくますくりぷと<br>
+・　JavaScriptの標準規格(こういうルールで書くぜ！)<br>
+・　欧州電子計算機工業会<br>
+・　毎年1回発表される<br>
+・　ES5=ES2014、ES6=ES2015、<br>
+・　ES20XXの呼び方を一般化<br>
+・　ES2015で機能追加が多くあり、近代JSの転換期と言える<br>
+
 
 
 
