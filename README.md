@@ -49,9 +49,14 @@ Created with CodeSandbox
 ・　ES20XXの呼び方を一般化<br>
 ・　ES2015で機能追加が多くあり、近代JSの転換期と言える<br>
 
-
-
-
+## ★ES2015で追加された規格
+・　let、constを用いた変数宣言<br>
+・　アローファンクション<br>
+・　Class構文(オブジェクト指向でよくでてくる)<br>
+・　分割代入<br>
+・　テンプレート文字列<br>
+・　スレッド構文<br>
+・　Promise<br>
 
 
 
