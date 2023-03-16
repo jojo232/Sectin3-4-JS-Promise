@@ -58,5 +58,9 @@ Created with CodeSandbox
 ・　スレッド構文<br>
 ・　Promise<br>
 
+# ⑤Webpack等のモジュールバンドラーを使用　（モジュールバンドラーとは）
+### 複数のJS(css/image)ファイルを1つにまとめるためのもの
+### トランスパイラとは、新しいJavaScriptの記法を古い記法に変換してくれる
+
 
 
