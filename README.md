@@ -69,3 +69,18 @@ Created with CodeSandbox
 ・　最近はフレームワーク/ライブラリが割と面倒見てくれる<br>
 ・　まずは概念を押さえておけばOK<br>
 
+
+
+# SPAとは、Single Page Application
+・　モダンJavaScriptはSPAが基本<br>
+・　HTMLは1つのみでJavaScriptで画面を置き換える<br>
+※SPAを使用したWebシステムは、プロフィールを表示するための必要なデータだけを送る(htmlではなくデータのみ)<br>
+※index.htmlを置き換える<br>
+
+### SPAのメリット
+・　ページ遷移毎のチラつきがなくなる<br>
+・　表示速度のアップによるユーザー体験向上<br>
+・　コンポーネント分割が容易になることで開発効率アップ<br>
+
+
+
