@@ -83,4 +83,11 @@ Created with CodeSandbox
 ・　コンポーネント分割が容易になることで開発効率アップ<br>
 
 
+# Promiseとは(webのクローリング)
+
+# await/async
+
+# 非同期通信とは
+
+# playwrightというライブラリを使用してwebのクローリング(Promise)
 
