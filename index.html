@@ -238,12 +238,27 @@ const fee2 = num2 && "何か設定されました";
 console.log(fee2);
 
 // Pormise
+<!DOCTYPE html>
+<html>
+  <body>
+    <script>
+      const url1 =""
+      const url2 =""
+      const url3 =""
+      
 const result1 = fetch(url1);
 result1
-  .then((response) => cosole.log(response))
+  .then(() => fetch(url2))
+  .then(() => fetch(url2))
+  .then(() => fetch(url2))
+  .then(() => fetch(url2))
   .catch((err) => {
    console.log("失敗！！！");
    console.log(err);
-  }
+  })
+ ;
   
 console.log(result1);
+   </script>
+  </body>
+</html>
