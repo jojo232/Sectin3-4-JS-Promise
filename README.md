@@ -104,7 +104,7 @@ Created with CodeSandbox
 - JavaScriptはシングルスレッドで実行される<br>
 ・普通に書いていると、同時に1つのことしか実行できない(同期処理)<br>
 ※スレッドとは、CPUの実行単位となっている
-### 非同期に処理されるAPI(以降、非同期API)を利用することで、非同期処理を実現すできる
+- 非同期に処理されるAPI(以降、非同期API)を利用することで、非同期処理を実現すできる
 ## JavaScriptでの非同期APIの例
 - タイマー
 ・setTimeout
@@ -112,6 +112,7 @@ Created with CodeSandbox
 - I/O
 ・fs.readFile
 ・fetch
+=> コールバックを受け取るものや、Promiseを返すものなど違いがあり、たくさんあるが、利用するときはドキュメントをしっかり見るべし
 
 # playwrightというライブラリを使用してwebのクローリング(Promise)
 
